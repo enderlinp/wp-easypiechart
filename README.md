@@ -42,5 +42,5 @@ For additional parameters, please visit the [Configuration parameter](https://re
 2. Click on **Delete**.
 3. Click on **OK** from within the delete confirmation dialog.
 
-## Licence
-Released under the [MIT Licence](LICENSE).
+## License
+Released under the [MIT License](LICENSE).
